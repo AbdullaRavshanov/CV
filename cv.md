@@ -1,5 +1,5 @@
 # Abdulla Ravshanov
-![Me](/me.jpg "My photo" = 200px)
+![Me](/me.jpg "My photo" = 200x200)
 
 ### Junior Frontend Developer
 
