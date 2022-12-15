@@ -19,3 +19,37 @@
 2. CSS
 3. JavaScript(basic)
 4. Git 
+5. Adobe Premiere Pro
+6. Adobe After Effects
+----------------------------------------------
+### Code Exemple:
+----------------------------------------------
+```
+for (let i = 2; i <= 10; i++){
+    if (i % 2 === 0) {
+    console.log(i);   
+    }
+}
+```
+----------------------------------------------
+### Experience:
+----------------------------------------------
+##### 2012 - 2015: Waiter, Cashier
+##### 2015 - 2016: Draftsman
+##### 2017 - 2022: Merchandiser
+##### 2021 - 2022: Video-maker
+----------------------------------------------
+### Education:
+----------------------------------------------
+**University:** 
+1. Bachelor's degree in Russian State University. A.N. Kosygin (Technologies. Design. Art), Moscow
+2. Master's degree at the Russian State University named after A.N. Kosygin (Technologies. Design. Art), Moscow
+----------------------------------------------
+### Lenguages:
+----------------------------------------------
+1. English - B1
+2. Russian - C1
+3. Uzbek - Native
+4. Turkish - A1
+5. Duetsch - A1
+----------------------------------------------
