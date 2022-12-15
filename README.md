@@ -1,2 +1,1 @@
-# CV
-This is test repository
+https://AbdullaRavshanov.github.io/rsschool-cv/cv
