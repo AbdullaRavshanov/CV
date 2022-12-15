@@ -1,4 +1,5 @@
 # Abdulla Ravshanov
+![Me](/me.jpg "My photo")
 
 ### Junior Frontend Developer
 
