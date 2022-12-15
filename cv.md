@@ -1,5 +1,5 @@
 # Abdulla Ravshanov
-### ![Me](/me.jpg "My photo")
+![Me](/me.jpg "My photo" = 200px)
 
 ### Junior Frontend Developer
 
