@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
